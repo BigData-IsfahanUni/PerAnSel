@@ -3,11 +3,11 @@
 </span>
 
 # PerAnSel: A Novel Transformer-based Persian Question Answering System
-About 110 million people from Iran, Tajikistan, Afghanistan, and six other countries speak Persian. The Persian language is: (1) free word order, (2) right-to-left, (3) morphologically-rich, and (4) low-resource. In order to address the need for a high-quality answer selection dataset for the Persian language, we present PASD; the first large-scale native answer selection dataset for the Persian language. PASD contains approximately 100,000 question-answer pairs on [Persian Wikipedia](https://fa.wikipedia.org/) articles and is the first large-scale native answer selection dataset for the Persian language which is created by native annotators. To show the quality of PASD, we employed it to train state of the art QA systems. We also present PerAnSel: a novel transformer-based persian question answering system.
+About 110 million people from Iran, Tajikistan, Afghanistan, and six other countries speak Persian. The Persian language is: (1) free word order, (2) right-to-left, (3) morphologically-rich, and (4) low-resource. In order to address the need for a high-quality answer selection dataset for the Persian language, we present PASD; the first large-scale native answer selection dataset for the Persian language. PASD contains approximately 100,000 question-answer pairs on [Persian Wikipedia](https://fa.wikipedia.org/) articles and is the first large-scale native answer selection dataset for the Persian language which is created by native annotators. We also translate [WikiQA](https://www.microsoft.com/en-us/download/details.aspx?id=52419) dataset to Persian. To show the quality of PASD, we employed it to train state of the art answer selection systems. Finally, we present PerAnSel: a novel transformer-based persian question answering system.
 
 # Dataset
 ### Download
-The PASD and WikiFA datasets are available for download from the [`PASD`](https://github.com/BigData-IsfahanUni/PerAnSel/tree/main/PASD) and [`WikiFA`](https://github.com/BigData-IsfahanUni/PerAnSel/tree/main/WikiFA), respectively. The statistics of the PerAnsSel and WikiFA are shown below:
+The PASD and WikiFA datasets are available for download from the [`PASD`](https://github.com/BigData-IsfahanUni/PerAnSel/tree/main/PASD) and [`WikiFA`](https://github.com/BigData-IsfahanUni/PerAnSel/tree/main/WikiFA), respectively. The statistics of the PASD and WikiFA are shown below:
 |  Split | Train |  Dev |  Test |
 | :----: | :---: | :--: | :---: |
 |  PASD  | 17567 | 1000 |  1000 |

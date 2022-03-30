@@ -2,7 +2,7 @@
     <a href="https://www.kaggle.com/jamshidjdmy/peransel"><img alt="Kaggle" src="https://img.shields.io/static/v1?label=Kaggle&message=PerAnSel&logo=Kaggle&color=20BEFF"/></a>
 </span>
 
-# PerAnSel: A Novel Transformer-based Persian Question Answering System
+# PerAnSel: A Novel Deep Neural Network-based System for Persian Question Answering
 About 110 million people from Iran, Tajikistan, Afghanistan, and six other countries speak Persian. The Persian language is: (1) free word order, (2) right-to-left, (3) morphologically-rich, and (4) low-resource. In order to address the need for a high-quality answer selection dataset for the Persian language, we present PASD; the first large-scale native answer selection dataset for the Persian language. PASD contains approximately 100,000 question-answer pairs on [Persian Wikipedia](https://fa.wikipedia.org/) articles and is the first large-scale native answer selection dataset for the Persian language which is created by native annotators. We also translate [WikiQA](https://www.microsoft.com/en-us/download/details.aspx?id=52419) dataset to Persian. To show the quality of PASD, we employed it to train state of the art answer selection systems. Finally, we present PerAnSel: a novel transformer-based persian question answering system.
 
 # Dataset

@@ -50,4 +50,22 @@ We also presented a question classifier which use PASD as the training set and c
 |   PerAnSel  |     MBERT    |    92.11%   |   62.77%   |
 
 # Citation
-...
+### Plain
+Jamshid Mozafari, Arefeh Kazemi, Parham Moradi, Mohammad Ali Nematbakhsh, "PerAnSel:  A  Novel Deep Neural Network-Based System for Persian Question Answering", Computational Intelligence and Neuroscience, vol. 2022, Article ID 3661286, 21 pages, 2022. https://doi.org/10.1155/2022/3661286
+
+### Bibtex
+```bibtex
+﻿@Article{Mozafari2022,
+    author={Mozafari, Jamshid and Kazemi, Arefeh and Moradi, Parham and Nematbakhsh, Mohammad Ali},
+    title={PerAnSel: A Novel Deep Neural Network-Based System for Persian Question Answering},
+    journal={Computational Intelligence and Neuroscience},
+    year={2022},
+    month={Jul},
+    day={18},
+    publisher={Hindawi},
+    volume={2022},
+    pages={3661286},
+    issn={1687-5265},
+    doi={https://doi.org/10.1155/2022/3661286}
+}
+```
